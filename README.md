@@ -1,9 +1,5 @@
 Fly - Phalcon Admin
 
-Website & Documentation: https://laravelvoyager.com
-Video Tutorial Here: https://laravelvoyager.com/academy/
-Join our Slack chat: https://voyager-slack-invitation.herokuapp.com/
-
 Phalcon Admin & BREAD System (Browse, Read, Edit, Add, & Delete), supporting Phalcon 3.x
 
 # Requirements
